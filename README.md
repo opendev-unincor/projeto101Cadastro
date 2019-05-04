@@ -15,10 +15,10 @@ $ source enviroment/bin/activate
  
 ## COLOCANDO O DJANGO PRA RODAR  
 $ cd projeto101Cadastro  
-$ manage.py makemigrations  
-$ manage.py migrate  
-$ manage.py createsuperuser  
-$ manage.py runserver  
+$ python manage.py makemigrations  
+$ python manage.py migrate  
+$ python manage.py createsuperuser  
+$ python manage.py runserver  
 
 ## UTILIZAR O ARQUIVO 'settings_local.py' para alterar as configuraçoes  
 ## NAO deletar o arquivo 'settings_local.py.example'
