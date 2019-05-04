@@ -1,13 +1,13 @@
 
-projeto de cadastro utilizando django framework  
+## projeto de cadastro utilizando django framework  
 
 ## INSTALACAO DO PROJETO #
-$ git clone  
+$ git clone git@github.com:opendev-unincor/projeto101Cadastro.git  
 $ cd projeto101Cadastro  
 
 ## CASO NECCESSITE DE INSTALAR O VIRTUALENV PARA PYTHON 3.6
-$ virtualenv enviroment -p python3.6
-**django 2.2 nao funciona sem o python 3.6**
+$ virtualenv enviroment -p python3.6  
+### django 2.2 nao funciona sem o python 3.6
    
 
 ## ATIVACAO DO VIRTUALENV  
