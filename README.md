@@ -12,6 +12,9 @@ $ virtualenv enviroment -p python3.6
 
 ## ATIVACAO DO VIRTUALENV  
 $ source enviroment/bin/activate  
+
+## UTILIZNADO ARQUIVO DE AUTOMATIZAÇÃO PARA INSTALACAO  
+$ enviroment/bin/pip install -r requeriments-development.txt
  
 ## COLOCANDO O DJANGO PRA RODAR  
 $ cd projeto101Cadastro  
